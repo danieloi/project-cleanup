@@ -1,0 +1,10 @@
+
+.data-field {
+    width: 35%;
+}
+
+@media(max-width: 720px){
+    .data-field{
+        width: 40%;
+    }
+}
